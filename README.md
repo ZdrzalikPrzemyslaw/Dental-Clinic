@@ -6,10 +6,10 @@
 
 </div>
 
-## 📝 Table of Contents
+## 📝 Table of Contents <a name = "table-of-contents"></a>
 
-- [📝 Table of Contents <a name = "table-of-contents"></a>](#table-of-contents)
-- [🧐 About(#about)
+- [📝 Table of Contents ](#table-of-contents)
+- [🧐 About](#about)
 - [🔑 Prerequisites](#prerequisites)
 - [⛏️ Built Using](#built-using)
 - [✍️ Authors](#authors)

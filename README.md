@@ -12,7 +12,7 @@
 - [🧐 About <a name = "about"></a>](#-about-)
 - [🔑 Prerequisites <a name = "prerequisites"></a>](#-prerequisites-)
 - [⛏️ Built Using <a name = "built_using"></a>](#️-built-using-)
-- [✍️ Authors](#-authors-)
+- [✍️ Authors <a name = "authors"></a>](#-authors-)
 
 ## 🧐 About <a name = "about"></a>
 

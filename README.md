@@ -8,10 +8,10 @@
 
 ## 📝 Table of Contents
 
-- [📝 Table of Contents](#-table-of-contents)
-- [🧐 About <a name = "about"></a>](#-about-)
-- [🔑 Prerequisites <a name = "prerequisites"></a>](#-prerequisites-)
-- [⛏️ Built Using <a name = "built_using"></a>](#️-built-using-)
+- [📝 Table of Contents <a name = "table-of-contents"></a>](#table-of-contents)
+- [🧐 About(#about)
+- [🔑 Prerequisites](#prerequisites)
+- [⛏️ Built Using](#built-using)
 - [✍️ Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
@@ -72,7 +72,7 @@ You will also need to edit the JDBCConfig.java file found in the config package 
 
 Use the sql scripts found in resources/META-INF/sql to populate your database with sample data.
 
-## ⛏️ Built Using <a name = "built_using"></a>
+## ⛏️ Built Using <a name = "built-using"></a>
 
 - [Java](www.java.com)
 - [Apache Maven](www.maven.apache.org)
